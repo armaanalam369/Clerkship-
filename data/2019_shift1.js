@@ -8,7 +8,7 @@
    explanations.
    ================================================================== */
 
-registerPYQ("2019_shift1", [
+registerPYQ("2019(S-1)", [
   /* ===== 1. English (30) ===== */
   { originalNumber: 71, section: "English", question: "Fill in the blank with an appropriate preposition from the list below: He was successful ______ completing the job within four days.", options: ["on", "in", "with", "of"], correctAnswer: 1, explanation: "'Successful in' is the correct collocation." },
   { originalNumber: 72, section: "English", question: "Find the word which has the same meaning as 'Commence'.", options: ["Announce", "Commend", "Begin", "Comment"], correctAnswer: 2, explanation: "Commence means to begin." },
