@@ -6,7 +6,7 @@
    correction is noted in that question's explanation.
    ================================================================== */
 
-registerPYQ("2023_shift3", [
+registerPYQ("2023(S-3)", [
   /* ===== 1. English (30) ===== */
   { originalNumber: 1, section: "English", question: "Choose the correct option to complete the sentence: Birds build ______ nests in trees.", options: ["their", "his", "its", "her"], correctAnswer: 0, explanation: "'Birds' is plural, so the possessive pronoun is 'their'." },
   { originalNumber: 2, section: "English", question: "Fill in the blank with the correct modal verb: You ______ have done a bit more to help instead of leaving everything to me.", options: ["can", "could", "will", "shall"], correctAnswer: 1, explanation: "'Could have done' expresses a missed opportunity or mild criticism. (The source key marked 'can', which is ungrammatical here; corrected to 'could'.)" },
