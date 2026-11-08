@@ -6,7 +6,7 @@
    explanations.
    ================================================================== */
 
-registerPYQ("2023_shift4", [
+registerPYQ("2023(S-4)", [
   /* ===== 1. English (30) ===== */
   { originalNumber: 1, section: "English", question: "A word that is spelt or pronounced like another word but has a completely different meaning is known as a/an", options: ["Homonym", "Synonym", "Antonym", "Paronym"], correctAnswer: 0, explanation: "Homonyms are words that share spelling or pronunciation but differ in meaning." },
   { originalNumber: 2, section: "English", question: "An animal that feeds on plants is called", options: ["Carnivorous", "Herbivorous", "Insectivorous", "Omnivorous"], correctAnswer: 1, explanation: "Herbivores feed on plants. (Printed as 'Hervivorous' in the source.)" },
