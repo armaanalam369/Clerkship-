@@ -7,7 +7,7 @@
    available). Notes on doubtful questions are in the explanations.
    ================================================================== */
 
-registerPYQ("2019_shift2", [
+registerPYQ("2019(S-2)", [
   /* ===== 1. English (30) ===== */
   { originalNumber: 71, section: "English", question: "Fill in the blank with an appropriate preposition from the list below: The cat sneaked in and sat ______ the little girl.", options: ["under", "besides", "into", "beside"], correctAnswer: 3, explanation: "'Beside' means next to. 'Besides' means 'in addition to'." },
   { originalNumber: 72, section: "English", question: "Complete the idiom by choosing the right word from the options given below: He moved heaven and ______ to get bail for his friend.", options: ["hell", "sky", "cosmos", "earth"], correctAnswer: 3, explanation: "'Move heaven and earth' means to make every possible effort." },
