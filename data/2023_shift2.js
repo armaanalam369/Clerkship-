@@ -5,7 +5,7 @@
    Answers were re-checked; corrections are noted in the explanations.
    ================================================================== */
 
-registerPYQ("2023_shift2", [
+registerPYQ("2023(S-2)", [
   /* ===== 1. English (30) ===== */
   { originalNumber: 1, section: "English", question: "Choose the correct option to complete the sentence: I have been ______ at the painting.", options: ["looking", "looked", "look", "looks"], correctAnswer: 0, explanation: "Present perfect continuous takes 'have been + verb-ing': 'have been looking'." },
   { originalNumber: 2, section: "English", question: "Choose the correct pair of antonyms from the pairs given below:", options: ["defriend-unfriend", "borrow-lend", "help-aid", "cajole-coax"], correctAnswer: 1, explanation: "Borrow and lend are opposites. The other pairs are synonyms." },
